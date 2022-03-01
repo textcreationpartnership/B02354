@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations humbly offered to the honourable House of Commons assembled in Parliament, concerning prohibiting the exportation of wooll.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02354</idno>
+            <idno type="STC">Wing C5909CB</idno>
+            <idno type="STC">ESTC R174160</idno>
+            <idno type="EEBO-CITATION">51784467</idno>
+            <idno type="OCLC">ocm 51784467</idno>
+            <idno type="VID">174882</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02354)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174882)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2704:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations humbly offered to the honourable House of Commons assembled in Parliament, concerning prohibiting the exportation of wooll.</title>
+                  <author>Great Britain. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication data from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  Great Britain --  Early works to 1800.</term>
+               <term>Wool --  Prices --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Export controls --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:174882:1" rendition="simple:additions"/>
+            <head>CONSIDERATIONS HUMBLY OFFERED To the Honourable Houſe of Commons, ASSEMBLED IN PARLIAMENT, CONCERNING <hi>PROHIBITING</hi> the <hi>Exportation</hi> of WOOLL.</head>
+            <p>I Am againſt an abſolute or unlimited Exportation of <hi>WOOLL</hi> as much as any Perſon whatſoever, but then there ought to be found out a way for a full Conſumption of it within our ſelves, or elſe,</p>
+            <p n="1">I. <hi>Firſt,</hi> Let it be conſidered, whether the making of ſuch an Act of <hi>Parliament</hi> as ſhall and will inevitably occaſion the <hi>Fall</hi> of RENTS of moſt of the <hi>Gentlemen</hi>'s and <hi>Free-holder</hi>'s Eſtates all over <hi>England</hi> (thoſe of the <hi>Inland</hi> Counties as well as others) only to gratify Three or Four Hundred particular Perſons of the <hi>Hamborrow</hi>-Company, <hi>Eaſt-India</hi>-Com<g ref="char:EOLhyphen"/>pany, <hi>&amp;c.</hi> Let all the Members of the <hi>Inland</hi> Counties, and others, I ſay, conſider, Whether ſuch an Act can be for the General and Publick Good of the <hi>Kingdom?</hi>
+            </p>
+            <p n="2">II. Then Conſider, If when the Price of our <hi>WOOLL</hi> was brought down from Twelve Pence a Pound to Nine Pence and Eight Pence a Pound, your RENTS did then fall a <hi>Quarter</hi> part, whether your RENTS will not proportionably fall, if you bring <hi>WOOLL</hi> from Eight Pence to Four Pence a Pound, that is half in half, (or proportionably, be it what it will;) ſo as that ſeveral <hi>Gentlemen,</hi> who are now worth Four Hundred Pound <hi>per Annum,</hi> (and Twenty years ago were worth Five or Six Hundred Pound <hi>per Annum</hi>) in good Land, may not be worth in Two or Three Years time above Two Hundred and Fifty or Three Hundred Pound <hi>per Annum,</hi> and only by the fall of their RENTS, without any thing of bad Husbandry, but occaſioned by your <hi>Act.</hi>
+            </p>
+            <p>How ſuch a general loſs of the real value of our Eſtates ſhould be for the <hi>common</hi> Good of the <hi>Kingdom,</hi> I know not, except you will ſay <hi>Ireland</hi> is in a better condition, and able to bear greater <hi>Taxes</hi> than <hi>England,</hi> becauſe Land is as yet but of half the value there that it is here, and therefore that you would bring <hi>your</hi> Lands down to be only equal in value to thoſe in <hi>Ireland.</hi>
+            </p>
+            <p n="3">III. Conſider, Whether upon all <hi>emergent</hi> occaſions and neceſſities of the <hi>Government,</hi> you do not conſtantly fly to a <hi>Land-Tax,</hi> as the moſt ſure and
+<pb n="2" facs="tcp:174882:2"/>certain to preſerve the <hi>King</hi> and <hi>Kingdom;</hi> How can it be the Intereſt of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> then to pull down and ſink our own RENTS thus? Can we (either <hi>Landord</hi> or <hi>Tenant</hi>) bear and pay as much out of Two Hundred or Two Hundred and Fifty Pounds a Year, as we can out of Four or Five Hundred Pounds, proportionably to what it falls, it will hold, be it what it will.</p>
+            <p>When that Eſtate of ours which brought us in Six Hundred Pounds a Year, will now bring us in but Four Hundred Pounds a Year, and ſometimes hardly that, don't we pay a <hi>Tax</hi> with a vengeance in the fall of our RENTS?</p>
+            <p n="4">IV. Conſider, That if the <hi>PARLIAMENT</hi> do not take ſome care, or make ſome <hi>Proviſion</hi> in their <hi>Act,</hi> for the better <hi>Conſumption</hi> of <hi>WOOLL,</hi> you muſt needs lower and <hi>fall</hi> the Price of all your <hi>WOOLL</hi> thereby.</p>
+            <p>
+               <hi>Firſt,</hi> We have ſeen and found this by <hi>Experience,</hi> ever ſince the <hi>Prohibi<g ref="char:EOLhyphen"/>tion,</hi> all the time of <hi>Charles</hi> the II. and <hi>James</hi> the II. it hath continued <hi>Falling</hi> more and more every Year.</p>
+            <p>
+               <hi>Secondly,</hi> It ſtands to <hi>Reaſon,</hi> for if any way or method of the <hi>Vending</hi> or <hi>Conſumption</hi> be ſtopp'd or obſtructed, and no other way <hi>Subſtituted</hi> in the room thereof, that ſhall make away with as much, it muſt neceſſarily <hi>lower</hi> the Price.</p>
+            <p>And <hi>who</hi> is it that gets by this <hi>lowering</hi> of the Price of <hi>WOOLL?</hi> Cer<g ref="char:EOLhyphen"/>tainly you will all ſay, not the <hi>Landlord</hi> nor the <hi>Tenant,</hi> no nor yet the <hi>Carder,</hi> the <hi>Spinner,</hi> nor the <hi>Worker,</hi> the <hi>Clothier</hi> nor the <hi>Dyer,</hi> for they are forc'd to ſell their Clothes <hi>low</hi> accordingly to them that <hi>Buy</hi> them; Who then? Chiefly a few <hi>Factors</hi> and particular Perſons of the <hi>Hamborrow</hi>-Company and other <hi>Companies,</hi> who do and will <hi>beat</hi> down the Prices of our <hi>Cloth</hi> here at home, and Buy it at the <hi>loweſt</hi> Rates, (nay, and under the Rate that the <hi>Clothier</hi> can many times well afford it) and then ſell it beyond Sea at their <hi>own</hi> Rates; and thus, <hi>this</hi> which the whole <hi>Countrey</hi> loſes, <hi>they</hi> put into their own <hi>private</hi> Pockets.</p>
+            <p>Let them keep up a moderate Price for our <hi>Cloth</hi> here, and that will keep up the Price of our <hi>WOOLL,</hi> and then they need not fear the <hi>Exporting</hi> of it, For if we could have a reaſonable Price for it here, without <hi>hazard,</hi> ſo as to pay our RENTS, none would be ſo fooliſh or mad, to venture their <hi>Necks</hi> to Tranſport it: But it is the <hi>neceſſity</hi> that is put upon them, that now enforces them to it, when the <hi>Clothier</hi> will or can not Buy their <hi>WOOLL,</hi> at ſuch an indifferent Rate as will enable them to Pay their <hi>Landlords,</hi> becauſe the cun<g ref="char:EOLhyphen"/>ning <hi>BUYERS</hi> of our Cloth endeavour ſtill to <hi>beat</hi> down the Prices at home.</p>
+            <p n="5">V. Therefore I inquire, and let it be Conſidered, in ſuch a Caſe, what ſhall the <hi>COUNTREY</hi> do, or what would <hi>you</hi> have them do with the <hi>over-plus</hi> of their <hi>WOOLL,</hi> (who at this time have Two Years <hi>WOOLL</hi> lying on their hands) which our own <hi>Clothiers</hi> are not able or willing to <hi>Buy</hi> at ſuch rea<g ref="char:EOLhyphen"/>ſonable Rates as aforeſaid?</p>
+            <p n="6">VI. Let it be conſidered, Whether it can be for the Intereſt of <hi>England,</hi> when we have more <hi>WOOLL</hi> of our own, than we <hi>can</hi> or at leaſt <hi>do</hi> con<g ref="char:EOLhyphen"/>ſume in Manufactures, to ſuffer the <hi>Importation</hi> of great quantities of <hi>Iriſh WOOLL,</hi> which alſo helps to bring down the <hi>Prices</hi> of our own; and 'tis cer<g ref="char:EOLhyphen"/>tain that they have all along for theſe many Years brought in great Quantities of <hi>Iriſh WOOLL</hi> into <hi>London, Barnſtable,</hi> and other places in the <hi>Weſt,</hi> which ſerves every jot as well as our own <hi>WOOLL</hi> for their uſe; muſt not that then hinder the <hi>Conſumption</hi> of ſo many Pounds of our own <hi>WOOLL,</hi> and that being ſo much <hi>cheaper</hi> than ours, bring down the Price of <hi>ours?</hi>
+            </p>
+            <p n="7">VII. Let it be conſidered, Whether the <hi>lowneſs</hi> of the Price of our <hi>WOOLL,</hi> hath not ſome <hi>influence</hi> on the <hi>lowneſs</hi> of the price of <hi>Corn?</hi> and ſo conſe<g ref="char:EOLhyphen"/>quently doth affect all the Lands of <hi>England:</hi> It is moſt certain it does, which is eaſily <hi>demonſtrated;</hi> for when <hi>WOOLL</hi> is low, and bears but a ſmall price, ſo that the <hi>Tenant</hi> cannot live and raiſe his RENT by that, then he turns more
+<pb n="3" facs="tcp:174882:2"/>to <hi>Tillage,</hi> breaks up and ſowes more Land, which brings down the Price of <hi>Corn;</hi> but if <hi>WOOLL</hi> bears a good Price, then they will run more into <hi>breed<g ref="char:EOLhyphen"/>ing</hi> Sheep and <hi>Graſing,</hi> and ſo let more of their Land ly, till <hi>Corn</hi> grows ſo dear again, as ſufficient to anſwer the honeſt <hi>Husband-man</hi>'s Labour and Charge, which now it is not.</p>
+            <p>Therefore to keep up the Price of our <hi>WOOLL,</hi> is one certain way to keep up the Prices of our <hi>Corn;</hi> and how <hi>neceſſary</hi> that is, you are all ſenſible, by making ſo many <hi>Acts</hi> for the <hi>Exportation</hi> of it.</p>
+            <p>
+               <hi>Thus then upon the whole, let it be duly Conſidered; whether it is not moſt adviſable,</hi>
+               <list>
+                  <item>I. Either that the <hi>PARLIAMENT</hi> ſhould ſet or fix, from time to time, ſuch reaſonable Price or Prices upon <hi>WOOLL,</hi> as ſhall be thought in<g ref="char:EOLhyphen"/>different and convenient betwixt <hi>Buyer</hi> and <hi>Seller, Landlord</hi> and <hi>Tenant,</hi> and continue an abſolute Prohibition, as now it is, for Three Years; I dare ſay leſs <hi>WOOLL</hi> will be <hi>Exported</hi> then, than hath been for many Years before, notwithſtanding the late <hi>Prohibition,</hi> and that the <hi>higher</hi> the Price is put on it, the <hi>higher</hi> it will advance the Price of <hi>Corn,</hi> both which are now ſo low, and have been for ſome time, that <hi>all</hi> are ſenſible, <hi>Farmers</hi> are not able long to hold it at thoſe <hi>Rates,</hi> much leſs pay <hi>Taxes.</hi>
+                  </item>
+                  <item>II. Or that the <hi>Parliament</hi> make the Prohibition <hi>conditional,</hi> as it is for <hi>Wheat,</hi> &amp;c. (though <hi>Bread</hi> is the ſtaff of the <hi>Poor</hi> and all Mens Lives,) <hi>viz.</hi> when it is not above ſuch or ſuch a Price at the place of <hi>Exportation,</hi> or at <hi>London,</hi> (to be duly certified) then to be <hi>Exported,</hi> and not elſe. Nay, Fur<g ref="char:EOLhyphen"/>ther, That the Prohibition may be made <hi>abſolute</hi> for Six or Seven Months in the Year, as from the Firſt of <hi>May</hi> or <hi>June</hi> to the Firſt of <hi>December,</hi> or more, That no <hi>WOOLL</hi> ſhall be Exported within thoſe Months (upon the ſevereſt Penalties that can be invented) that ſo our <hi>own</hi> people ſhall and may have the opportunity and benefit of <hi>pre-emption</hi> if they pleaſe; and this way I con<g ref="char:EOLhyphen"/>ceive there will be leſs <hi>WOOLL</hi> openly <hi>Tranſported,</hi> than is now done ſecretly by <hi>ſtealth.</hi>
+                  </item>
+                  <item>III. Or that the <hi>Parliament</hi> direct <hi>Work-houſes</hi> to be ſet up in ev'ry <hi>Market-Town</hi> in <hi>England,</hi> for the working out of all our <hi>WOOLL,</hi> with ſuch <hi>Regulati<g ref="char:EOLhyphen"/>ons</hi> as ſhall be thought fit, which might be ſo conſtituted, as in ſome meaſure to eaſe the burthenſome <hi>Pariſh</hi>-Charge of the <hi>Poor,</hi> which begins to grow too heavy for us to bear already in many places; or direct ſome other way for the <hi>Buying</hi> up, <hi>deſtroying</hi> or <hi>conſumption</hi> of it at home by Sumptuary Laws, ordering ſuch and ſuch Degrees of Men and Women to wear only our <hi>Woollen</hi> Manufactures, <hi>&amp;c</hi>
+                  </item>
+                  <item>IV. Or that the <hi>Parliament</hi> give free liberty to all Perſons (being our own Free-born Subjects) to Export our own <hi>Woollen</hi> Manufactures to any part or places beyond the Seas whatever; and that the ſeveral <hi>Companies</hi> be Regu<g ref="char:EOLhyphen"/>lated, as to the Trade in <hi>Woollen</hi> Manufactures and their Exporting our <hi>Bullion,</hi> and alſo as to what Goods they Import, which hinders the <hi>Conſumption</hi> of our own Manufactures at home.</item>
+                  <item>V. And that they Prohibit the Importation of <hi>Iriſh WOOLL,</hi> as ſtrictly in all reſpects as they Prohibit the Exportation of our <hi>own;</hi> or elſe that <hi>Ire<g ref="char:EOLhyphen"/>land</hi> be prevented as ſtrictly from Exporting any of their <hi>WOOLL</hi> into <hi>France, Flanders, Holland,</hi> or any other <hi>Foreign</hi> Parts, as well as we are pre<g ref="char:EOLhyphen"/>vented: For there's no Reaſon we ſhould impoveriſh our ſelves, and the greateſt part of the Nation, to make the <hi>Iriſh</hi> in general Rich, or ſome pri<g ref="char:EOLhyphen"/>vate Perſons and particular Companies of our own, to the prejudice and dammage of Five Hundred times as many.</item>
+               </list>
+            </p>
+            <p>I know nothing can hardly be <hi>Propoſed,</hi> which may not be attended with ſome <hi>Inconveniency,</hi> (and we owe moſt of it to the making of the unfortu<g ref="char:EOLhyphen"/>nate <hi>Iriſh</hi> Act,) but that which we ought now to conſider, is, which will be the <hi>leſs,</hi> and the <hi>greater</hi> Inconveniency.</p>
+            <pb n="4" facs="tcp:174882:3" rendition="simple:additions"/>
+            <p>I know alſo there are two vulgar <hi>Objections,</hi> to this, commonly made; but if they be throughly and rightly conſidered, are very <hi>ſmall,</hi> or indeed no <hi>Ob<g ref="char:EOLhyphen"/>jections</hi> at all.</p>
+            <p>Object. I. <hi>That this will be a great loſs and hinderance to the ſetting our own Poor at Work.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> It can be no loſs at all, for whether the Price of <hi>WOOLL</hi> be at Ten Pence, Eight Pence, or Six Pence a Pound, the Work of the Poor is all one and the ſame about it, neither more nor leſs, nor have they more or leſs for it, and now much is <hi>ſtolen</hi> over, which they do not Work out at all; which if a good Price was fixed on it, would remain here to be work'd out.</p>
+            <p>But I will make it apparent, that this is meerly a bare <hi>Pretence</hi> in theſe <hi>Objectors,</hi> more than any thing elſe.</p>
+            <list>
+               <item>1. Then let it be conſidered, Why the <hi>Hamborrow</hi>-Company ſend over ſo many <hi>White</hi> Clothes, to the great loſs and hinderance of the Poor <hi>Dyers</hi> here?</item>
+               <item>2. But if they indeed conſult the good of the <hi>Poor,</hi> why do the <hi>Eaſt-India</hi> Company import ſo many <hi>WROUGHT Indian</hi> Silks, to the prejudice and hinderance of ſo many Thouſand Silk-Weavers of our own? and why do they, (or are they ſuffered to) Import many other ſuch <hi>Goods</hi> as hinder the Sale of our own Manufactures both at home and abroad?</item>
+               <item>3. And why do the <hi>French</hi> Merchants Import (<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by ſtealth, as well as otherwiſe) ſo great quantities of <hi>Wrought</hi> Silks from <hi>France,</hi> (and 'tis no ſmall ſhame, as well as loſs to the King<g ref="char:EOLhyphen"/>dom in general, they are ſuffered to Import ſo much any ways) both to the <hi>over ballancing</hi> of their <hi>Exporting</hi> Trade with <hi>France,</hi> and to the great prejudice, damage, and impo<g ref="char:EOLhyphen"/>veriſhing of Ten Thouſand of poor <hi>Weavers,</hi> and Others of our <hi>Poor,</hi> that might be im<g ref="char:EOLhyphen"/>ployed in working and making the ſame <hi>Silk</hi> Manufactures here at home? And thus many Thouſands more of our <hi>Poor</hi> might be ſet to Work than now are by them.</item>
+            </list>
+            <p>Beſides, if theſe <hi>Objectors</hi> were in good earneſt for the good of the <hi>Poor</hi> why do they not Buy up all our <hi>WOOLL,</hi> (and not put any for want of vent, upon a neceſſity of Exporting any of it) and ſo imploy more of our <hi>Poor;</hi> but inſtead of that, they leave a Year or Two Years <hi>WOOLL</hi> upon our hands, and let the <hi>Poor</hi> want ſo much Imployment.</p>
+            <p>Object. II. <hi>That then they beyond Sea, if they have our WOOLL, would make Cloth, and under-ſell us at our Markets, and ſo we ſhould loſe the whole Manufactury.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> This <hi>Objection</hi> doth indeed concern ſuch as were the firſt makers of the <hi>Iriſh Act,</hi> and Prohibited the bringing in of <hi>live</hi> Sheep from <hi>Ireland</hi> with their <hi>WOOLL</hi> on their backs, into <hi>England,</hi> whereby their <hi>WOOLL</hi> became our own growth; but now it can have no weight with us, ſo long as they beyond Sea have had, and can have <hi>WOOLL</hi> from <hi>Ireland,</hi> which is as good as ours; beſides from <hi>Spain,</hi> which is better.</p>
+            <p>Therefore, ſo long as they have <hi>Iriſh WOOLL</hi> at a much cheaper Rate than ours, they might under-ſell us, though they had not a Pound of ours. And the <hi>Iriſh</hi> (ſince the <hi>Iriſh</hi> Act) have ſet up <hi>Woollen</hi> Manufacturies, and can and will ſerve Foreign Mar<g ref="char:EOLhyphen"/>kets cheaper than us, let us now do what we can.</p>
+            <p>Thus then, unleſs you, or thoſe that make the <hi>Objection,</hi> can <hi>Buy</hi> up or <hi>Deſtroy</hi> all the <hi>WOOLL</hi> of the growth of <hi>Ireland,</hi> the <hi>Objection</hi> proves altoge<g ref="char:EOLhyphen"/>ther inſignificant: Certainly we ought not be ſo weak to deſtroy our ſelves, and let <hi>Ireland</hi> have liberty to advance it ſelf, that they may make the beſt of their Market for their <hi>Growth,</hi> whil'ſt we Prohibit and Retrench our <hi>own;</hi> giving them leave to ſupply thoſe <hi>Markets,</hi> that We our ſelves might and <hi>formerly</hi> did; and ſo we wiſely <hi>raiſe</hi> the Rents of <hi>Lands</hi> in <hi>Ireland,</hi> and <hi>fall</hi> our own, which certainly (one would think) cannot ſute well with our right Policy, or true Wiſdom for the Publick Good.</p>
+            <p>Beſides, there may be ſuch a <hi>Toll</hi> and <hi>Cuſtom</hi> put upon all ſuch <hi>WOOLL,</hi> as ſhall happen ſo to be <hi>Exported,</hi> as ſhall render it ſo <hi>dear</hi> to them beyond Sea, that they ſhall never be able to under-ſell us at our Markets; whereas now the Price of <hi>WOOLL</hi> is ſo <hi>low</hi> here, 'tis certain that it cauſes ſuch as <hi>ſteal</hi> it over, to ſell it ſo much the <hi>lower</hi> to them in <hi>France,</hi> than they would do, if it did bear a good price here at home.</p>
+            <p>So that, I ſay, it will be found by experience, the lowering the Price of <hi>WOOLL</hi> ſo much here, does certainly cauſe ſo much the <hi>more WOOLL</hi> to be <hi>ſtollen over,</hi> or Tranſported, notwithſtanding all the Prohibitions that ever can be made.</p>
+            <p>The Concluſion of all is this, Let there be ſome way found out for a full <hi>Conſumption</hi> at home, and then let not a lock of <hi>WOOLL</hi> be Exported; otherwiſe, without that, it will prove unreaſonable, it will fall our <hi>RENTS,</hi> and never will have the deſired Effect.</p>
+            <p>All which is humbly ſubmitted to the mature Conſideration of This Honourable HOUSE.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
